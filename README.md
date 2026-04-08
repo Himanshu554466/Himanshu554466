@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Himanshu Tiwari  
 
-🚀 Frontend Developer | MERN Stack Enthusiast | DSA Learner  
+🚀 Full-stack Developer | MERN Stack Enthusiast | DSA Learner  
 
 ---
 
@@ -42,12 +42,14 @@
 ## 🚀 Projects
 
 ### 📚 BookHaven  
+🔗 https://github.com/Himanshu554466/BookStore-App  
 - Full-stack bookstore application  
 - JWT authentication  
 - Dark UI + responsive design  
 - Built using MERN stack  
 
 ### 💻 LiveCoder AI  
+🔗 https://github.com/Himanshu554466/Code-Editor  
 - Real-time collaborative code editor  
 - Socket.io for live collaboration  
 - AI-powered explanations (Gemini API)  
